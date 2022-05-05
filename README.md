@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nj1m
 - 👀 I’m interested in front end development for the web
-- 🌱 I’m currently learning UX/UI
+- 🌱 I’m currently learning UX
 - 💞️ I’m looking to collaborate on any web design projects
 
 <!---
